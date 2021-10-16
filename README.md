@@ -7,9 +7,11 @@
 
 <div align="center">
   <a href="https://github.com/Luiz-Augusto-JR">
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=Luiz-Augusto-JR&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark "/>
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Augusto-JR&layout=compact&langs_count=7&theme=github_dark "/>
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=Luiz-Augusto-JR&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark "/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Augusto-JR&layout=compact&langs_count=7&theme=github_dark "/>
 </div>
+  
+  ##
   
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Luiz-Augusto-JR-Js" height="40" width="150" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -18,15 +20,13 @@
   <img align="center" alt="Luiz-Augusto-JR-CSS" height="40" width="150" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
   
-  ##
-  
 <p align="center">
   <img align="top" alt="Luiz-Augusto-JR-pic" height="211" width="500" style="border-radius:50px;" src="https://media.giphy.com/media/zXmbOaTpbY6mA/giphy.gif">
 </p>
   
   ##
   
-<div> 
+<p align="center">
     <a href="https://www.linkedin.com/in/luiz-augusto-1b3a75b6" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"   target="_blank"></a>
     <a href="https://www.instagram.com/juniorluiz__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"   target="_blank"></a>
     <a href="https://api.whatsapp.com/send?phone=+55047992620266" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"   target="_blank"></a> 
@@ -35,5 +35,5 @@
  
   ![Snake animation](https://github.com/Luiz-Augusto-JR/Luiz-Augusto-JR/blob/output/github-contribution-grid-snake.svg)
  
-</div>
+</p>
   
