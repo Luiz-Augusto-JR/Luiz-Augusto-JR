@@ -1,16 +1,14 @@
-- 👋 Hi, I’m @Luiz-Augusto-JR
+- 👋 Hi, My name is Luiz Augusto.
 - 💡 I’m interested in code, games, tecnology..
 - ✔️ I’m currently learning React/React Native 
-- 👔 looking for a job
-- 📍  Timbó-SC / 2.1y
-- 👨🏻‍💻🏋🏻🏆focused on my goals.
+- 📍  Timbó-SC
 
 <br>
 
 <div align="center">
   <a href="https://github.com/Luiz-Augusto-JR">
-  <img align="left" height="160em" src="https://github-readme-stats.vercel.app/api?username=Luiz-Augusto-JR&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark "/>
-  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Augusto-JR&layout=compact&langs_count=7&theme=github_dark "/>
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=Luiz-Augusto-JR&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark "/>
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Augusto-JR&layout=compact&langs_count=7&theme=github_dark "/>
 </div>  
  
 <div align="center" style="display: inline_block"><br>
