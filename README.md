@@ -1,7 +1,5 @@
-- 👋 Hi, My name is Luiz Augusto.
-- 💡 I’m interested in code, games, tecnology..
-- ✔️ I’m currently learning React/React Native 
-- 📍  Timbó-SC
+Olá! Me chamo Luiz! 👋
+Um software developer apaixonado por tecnologia, buscando transformar sonhos em realidade através da programação.
 
 <br>
 
