@@ -20,7 +20,6 @@
   <img align="top" alt="Luiz-Augusto-JR-pic" height="211" width="500" style="border-radius:50px;" src="https://media.giphy.com/media/zXmbOaTpbY6mA/giphy.gif">
 </p>
   
-  ##
   
 <p align="center">
     <a href="https://www.linkedin.com/in/luiz-augusto-1b3a75b6" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"   target="_blank"></a>
