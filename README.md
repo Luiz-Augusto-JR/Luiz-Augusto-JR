@@ -1,5 +1,5 @@
-<h1>Olá! Me chamo Luiz!</h1> 👋
-Um software developer apaixonado por tecnologia, buscando transformar sonhos em realidade através da programação.
+<h1>Olá! Me chamo Luiz. 👋 </h1>
+<h2>Apaixonado por tecnologia, busco transformar sonhos em realidade através da programação!</h2>
 
 <br>
 
