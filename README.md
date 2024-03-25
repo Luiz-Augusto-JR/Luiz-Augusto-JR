@@ -1,12 +1,5 @@
 <h1>Olá! Me chamo Luiz. 👋 </h1>
-<br>
 
-<div align="center">
-  <a href="https://github.com/Luiz-Augusto-JR">
-  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=Luiz-Augusto-JR&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark "/>
-  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Augusto-JR&layout=compact&langs_count=7&theme=github_dark "/>
-</div>  
- 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Luiz-Augusto-JR-Js" height="40" width="150" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="Luiz-Augusto-JR-React" height="40" width="150" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
